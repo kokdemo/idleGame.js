@@ -1,4 +1,4 @@
-# lazyGame.js
+# idleGame.js
 
 写一个游戏是很不容易的，哪怕是最简单的放置类游戏。
 
